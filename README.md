@@ -1,3 +1,10 @@
+# Automatic memory management
+
+This version can be run stand alone, but it's more meant as proof of concept so other forks can implement similar changes.
+
+Allows to use resolutions that require up to 64x more VRAM than possible on the default CompVis build
+
+
 # Stable Diffusion without the safety/NSFW filter and watermarking!
 
 This is a fork of Stable Diffusion that disables the horribly inaccurate NSFW filter and unnecessary watermarking. The goal of this is three-fold:
