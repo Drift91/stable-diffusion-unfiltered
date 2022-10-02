@@ -1,3 +1,8 @@
+Example for GTX 1660 Ti:
+
+`python scripts/txt2img.py --prompt "a photograph of an astronaut riding a horse" --plms --precision full --n_samples 1`
+
+
 # Automatic memory management
 
 This version can be run stand alone, but it's more meant as proof of concept so other forks can implement similar changes.
